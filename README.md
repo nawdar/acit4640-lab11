@@ -1,6 +1,6 @@
 # 4640-w11-lab-start-w25
 
-# Labweek11
+# Lab Week 11
 
 ### Deploy infrastructure with Terraform:
 ```
