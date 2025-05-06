@@ -9,7 +9,7 @@ terraform init
 terraform apply --auto-approve
 ```
 
-### Make sure that you have python3-boto3 instaaled. You might need to install boto3 otherwise you will receive an error while trying to run ansbile palybook:
+### Make sure that you have python3-boto3 installed. You might need to install boto3 otherwise you will receive an error while trying to run ansbile palybook:
 ```
 sudo apt update
 sudo apt install python3-boto3
