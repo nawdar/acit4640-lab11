@@ -21,6 +21,7 @@ cd ansible
 ansible-playbook -i inventory/aws_ec2.yml playbook.yml
 ```
 
-### Screenshot:
-![image](./Lab-11-1.jpg)
-![image](./Lab-11-2.jpg)
+### Screenshots:
+![image](./Lab11-1.jpg)
+
+![image](./Lab11-2.jpg)
