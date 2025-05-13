@@ -20,8 +20,3 @@ sudo apt install python3-boto3
 cd ansible
 ansible-playbook -i inventory/aws_ec2.yml playbook.yml
 ```
-
-### Screenshots:
-![image](./Lab11-1.jpg)
-
-![image](./Lab11-2.jpg)
